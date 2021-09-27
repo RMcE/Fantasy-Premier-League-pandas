@@ -2,7 +2,7 @@
 
 Fantasy football analysis
 
-# Previous ranking of 7889th in the world (20/21) 
+### Previous ranking of 7889th in the world (20/21) 
 
 ## Analysis on 2021/2022 FPL season, insights used to decide on transfer strategy in upcoming week
 
